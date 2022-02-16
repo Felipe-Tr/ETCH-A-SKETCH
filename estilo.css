@@ -1,0 +1,33 @@
+ body{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction:column;
+  
+ }
+ #container{
+    display: flex;
+    width: 1200px;
+    background-color: darkcyan;
+    flex-wrap: wrap;
+    justify-content: space-between;    
+ 
+
+ }
+ .divscss{
+    background-color: brown;
+} 
+
+#mod{
+    background-color:darkcyan;
+    color:aliceblue;
+    font-weight: 800;
+    font-size: medium;
+    margin-bottom: 26px;
+    border-radius: 5px;
+    height: 88px;
+}
+/* 
+.divscss:hover{
+    background-color: green;
+} */
